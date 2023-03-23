@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 🤝 I’m looking for help with **Web**
+- 🤝 I’m looking for help with **Web Dev**
 
 - 📫 How to reach me **abbuabhi07@gmail.com**
 
